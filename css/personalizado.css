@@ -1,0 +1,292 @@
+.btn-roxo {
+  color: #fff;
+  background-color: #993399;
+  border-color: #993399;
+}
+.btn-roxo:focus,
+.btn-roxo.focus {
+  color: #fff;
+  background-color: #993399;
+  border-color: #993399;
+}
+.btn-roxo:hover {
+  color: #fff;
+  background-color: #993399;
+  border-color: #993399;
+}
+.btn-roxo:active,
+.btn-roxo.active,
+.open > .dropdown-toggle.btn-roxo {
+  color: #fff;
+  background-color: #993399;
+  border-color: #993399;
+}
+.btn-roxo:active:hover,
+.btn-roxo.active:hover,
+.open > .dropdown-toggle.btn-roxo:hover,
+.btn-roxo:active:focus,
+.btn-roxo.active:focus,
+.open > .dropdown-toggle.btn-roxo:focus,
+.btn-roxo:active.focus,
+.btn-roxo.active.focus,
+.open > .dropdown-toggle.btn-roxo.focus {
+  color: #fff;
+  background-color: #993399;
+  border-color: #993399;
+}
+.btn-roxo:active,
+.btn-roxo.active,
+.open > .dropdown-toggle.btn-roxo {
+  background-image: none;
+}
+.btn-roxo.disabled:hover,
+.btn-roxo[disabled]:hover,
+fieldset[disabled] .btn-roxo:hover,
+.btn-roxo.disabled:focus,
+.btn-roxo[disabled]:focus,
+fieldset[disabled] .btn-roxo:focus,
+.btn-roxo.disabled.focus,
+.btn-roxo[disabled].focus,
+fieldset[disabled] .btn-roxo.focus {
+  background-color: #993399;
+  border-color: #993399;
+}
+.btn-roxo .badge {
+  color: #993399;
+  background-color: #fff;
+}
+
+.btn-relatorio {
+  color: #fff;
+  background-color: #6d0fe8;
+  border-color: #9703e8;
+}
+.btn-relatorio:focus,
+.btn-relatorio.focus {
+  color: #fff;
+  background-color: #722eff;
+  border-color: #9703e8;
+}
+.btn-relatorio:hover {
+  color: #fff;
+  background-color: #722eff;
+  border-color: #9703e8;
+}
+.btn-relatorio:active,
+.btn-relatorio.active,
+.open > .dropdown-toggle.btn-relatorio {
+  color: #fff;
+  background-color: #722eff;
+  border-color: #9703e8;
+}
+.btn-relatorio:active:hover,
+.btn-relatorio.active:hover,
+.open > .dropdown-toggle.btn-relatorio:hover,
+.btn-relatorio:active:focus,
+.btn-relatorio.active:focus,
+.open > .dropdown-toggle.btn-relatorio:focus,
+.btn-relatorio:active.focus,
+.btn-relatorio.active.focus,
+.open > .dropdown-toggle.btn-relatorio.focus {
+  color: #fff;
+  background-color: #9703e8;
+  border-color: #9703e8;
+}
+.btn-relatorio:active,
+.btn-relatorio.active,
+.open > .dropdown-toggle.btn-relatorio {
+  background-image: none;
+}
+.btn-relatorio.disabled:hover,
+.btn-relatorio[disabled]:hover,
+fieldset[disabled] .btn-relatorio:hover,
+.btn-relatorio.disabled:focus,
+.btn-relatorio[disabled]:focus,
+fieldset[disabled] .btn-relatorio:focus,
+.btn-relatorio.disabled.focus,
+.btn-relatorio[disabled].focus,
+fieldset[disabled] .btn-relatorio.focus {
+  background-color: #6d0fe8;
+  border-color: #9703e8;
+}
+.btn-relatorio .badge {
+  color: #6d0fe8;
+  background-color: #fff;
+}
+
+.btn-relatorioexcel {
+  color: #fff;
+  background-color: #68ff0b;
+  border-color: #86e80d;
+}
+.btn-relatorioexcel:focus,
+.btn-relatorioexcel.focus {
+  color: #fff;
+  background-color: #beff18;
+  border-color: #86e80d;
+}
+.btn-relatorioexcel:hover {
+  color: #fff;
+  background-color: #beff18;
+  border-color: #86e80d;
+}
+.btn-relatorioexcel:active,
+.btn-relatorioexcel.active,
+.open > .dropdown-toggle.btn-relatorioexcel {
+  color: #fff;
+  background-color: #beff18;
+  border-color: #86e80d;
+}
+.btn-relatorioexcel:active:hover,
+.btn-relatorioexcel.active:hover,
+.open > .dropdown-toggle.btn-relatorioexcel:hover,
+.btn-relatorioexcel:active:focus,
+.btn-relatorioexcel.active:focus,
+.open > .dropdown-toggle.btn-relatorioexcel:focus,
+.btn-relatorioexcel:active.focus,
+.btn-relatorioexcel.active.focus,
+.open > .dropdown-toggle.btn-relatorioexcel.focus {
+  color: #fff;
+  background-color: #86e80d;
+  border-color: #86e80d;
+}
+.btn-relatorioexcel:active,
+.btn-relatorioexcel.active,
+.open > .dropdown-toggle.btn-relatorioexcel {
+  background-image: none;
+}
+.btn-relatorioexcel.disabled:hover,
+.btn-relatorioexcel[disabled]:hover,
+fieldset[disabled] .btn-relatorioexcel:hover,
+.btn-relatorioexcel.disabled:focus,
+.btn-relatorioexcel[disabled]:focus,
+fieldset[disabled] .btn-relatorioexcel:focus,
+.btn-relatorioexcel.disabled.focus,
+.btn-relatorioexcel[disabled].focus,
+fieldset[disabled] .btn-relatorioexcel.focus {
+  background-color: #68ff0b;
+  border-color: #86e80d;
+}
+.btn-relatorioexcel .badge {
+  color: #68ff0b;
+  background-color: #fff;
+}
+
+.btn-pdf {
+  color: #ffffff;
+  background-color: #1bbdaf;
+  border-color: #026947;
+}
+
+.btn-pdf:hover,
+.btn-pdf:focus,
+.btn-pdf:active,
+.btn-pdf.active,
+.open .dropdown-toggle.btn-pdf {
+  color: #ffffff;
+  background-color: #026947;
+  border-color: #026947;
+}
+
+.btn-pdf:active,
+.btn-pdf.active,
+.open .dropdown-toggle.btn-pdf {
+  background-image: none;
+}
+
+.btn-pdf.disabled,
+.btn-pdf[disabled],
+fieldset[disabled] .btn-pdf,
+.btn-pdf.disabled:hover,
+.btn-pdf[disabled]:hover,
+fieldset[disabled] .btn-pdf:hover,
+.btn-pdf.disabled:focus,
+.btn-pdf[disabled]:focus,
+fieldset[disabled] .btn-pdf:focus,
+.btn-pdf.disabled:active,
+.btn-pdf[disabled]:active,
+fieldset[disabled] .btn-pdf:active,
+.btn-pdf.disabled.active,
+.btn-pdf[disabled].active,
+fieldset[disabled] .btn-pdf.active {
+  background-color: #1bbdaf;
+  border-color: #026947;
+}
+
+.btn-pdf .badge {
+  color: #1bbdaf;
+  background-color: #ffffff;
+}
+
+/* configuração paginas */
+
+body {
+  background: #e6e6e6;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+#rodape {
+  border-top: 1px solid #333;
+  bottom: 0;
+  left: 0;
+  height: 40px;
+  position: fixed;
+  width: 100%;
+}
+
+/* pagina sobre nós */
+
+.texto {
+  text-align: justify;
+  text-indent: 40px;
+  line-height: 1.6;
+  margin: 0 auto;
+}
+
+/* página serviços*/
+
+.servicos {
+  display: flex;
+  margin-top: 150px;
+  align-items: center;
+  margin-left: 50px;
+  margin-right: 80px;
+  text-align: center;
+  padding: 10px;
+}
+.servicos > div {
+  flex: 1;
+}
+
+/*SOBRE NOS*/
+
+.boxmodel1 {
+  height: 200px;
+  background: #bdbdbd;
+  color: #000;
+}
+
+.boxmodel2 {
+  height: 200px;
+  background: #e1bee7;
+  color: #000;
+}
+
+.boxmodel3 {
+  height: 200px;
+  background: #757575;
+  color: #000;
+}
+
+.grow:hover {
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.missao-visao-valores {
+  margin: 0;
+}
