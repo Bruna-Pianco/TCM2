@@ -19,7 +19,7 @@
                 <li><a href="follow_sobre.php"><span class="glyphicon glyphicon-info-sign"> Sobre</span></a></li>
                 <li><a href="follow_servicos.php"><span class="glyphicon glyphicon-flash">Serviços</span></a></li>
                 <li><a href="follow_portfolio.php"><span class="glyphicon glyphicon-file">Portfólio</span></a></li>
-                <li><a href="follow_contato"><span class="glyphicon glyphicon-earphone"> Contato</span></a></li>
+                <li><a href="contato.php"><span class="glyphicon glyphicon-earphone"> Contato</span></a></li>
             </ul>
         </div>
     </div>

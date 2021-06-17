@@ -1,0 +1,84 @@
+/* configuração paginas */
+
+.navbar {
+  margin-bottom: 0;
+}
+
+#rodape {
+  bottom: 0;
+  left: 0;
+  height: 40px;
+  position: fixed;
+  width: 100%;
+}
+
+/* pagina sobre nós */
+
+.texto {
+  text-align: justify;
+  text-indent: 40px;
+  line-height: 1.6;
+  margin: 0 auto;
+}
+
+/* página serviços*/
+
+/*SOBRE NOS*/
+
+.boxmodel1 {
+  height: 200px;
+  background: #bdbdbd;
+  color: #000;
+}
+
+.boxmodel2 {
+  height: 200px;
+  background: #e1bee7;
+  color: #000;
+}
+
+.boxmodel3 {
+  height: 200px;
+  background: #757575;
+  color: #000;
+}
+
+.grow:hover {
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.missao-visao-valores {
+  margin: 0;
+}
+
+.carousel-item {
+  height: 100vh; /* dimensiona o slider à altura do viewport */
+  background-size: cover;
+  background-position: 50% 0;
+}
+
+button {
+  height: 50px;
+  width: 200px;
+}
+
+button i {
+  margin-right: 8px;
+  font-size: 14px;
+}
+
+form {
+  margin: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.button-enviar {
+  color: #fff;
+  background-color: #993399;
+  margin-left: 12px;
+  height: 50px;
+  width: 200px;
+}

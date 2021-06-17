@@ -16,34 +16,48 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <!--Button personalizado-->
     <link href="css/personalizado.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
     <?php
     include 'nav.php';
   ?>
-    <section class="servicos">
-        <div>
-            <img src=" img/test-drive.png" />
-            <h3>Teste Drive</h3>
-            <p>Assim como cada cliente é único, nossos produtos também são. Criamos o site
-                exclusivamente para o seu
-                projeto.</p>
-        </div>
-        <div>
-            <img src="img/delive.png" />
-            <h3>Delivery</h3>
-            <p>Nosso sistema de gestão conta com uma equipe capacitada para os serviços de consultoria
-                especializada
-                em
-                projetos, implementações e administração em banco de dados.</p>
-        </div>
-        <div>
-            <img src="img /manu.png" />
-            <h3>Manutenção</h3>
-            <p>Desenvolvimento de sistemas totalmente personalizados para sua empresa e suas necessidades.</p>
+    <section>
+        <div class="container">
+            <div class="row">
+                <br><br><br>
+                <div class="col-md-6 col-lg-4 col text-center py-3 w-auto p-3 ">
+                    <img src="img/test-drive.png" />
+                    <h4 class="title">Test Drive</h4>
+                    <p class="texto">Assim como cada cliente é único, nossos produtos também são. Criamos o site
+                        exclusivamente para o seu
+                        projeto.</p>
+                </div>
+
+                <div class="col-md-6 col-lg-4 col text-center py-3 w-auto p-3 ">
+                    <img src=" img/delive.png" />
+                    <h4 class="title">Delivery</h4>
+                    <p class="texto">Nosso sistema de gestão conta com uma equipe capacitada para os serviços de
+                        consultoria
+                        especializada
+                        em
+                        projetos, implementações e administração em banco de dados.</p>
+                </div>
+
+                <div class="col-md-6 col-lg-4 col text-center py-3 w-auto p-3 ">
+                    <img src="img/manu.png" />
+                    <h4 class="title">Manutenção</h4>
+                    <p class="texto">Desenvolvimento de sistemas totalmente personalizados para sua empresa e
+                        suas
+                        necessidades..</p>
+                </div>
+
+            </div>
         </div>
     </section>
+
+
     <?php 
     include 'rodape.html';
   ?>
