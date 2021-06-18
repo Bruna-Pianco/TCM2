@@ -1,83 +1,83 @@
-.btn-roxo {
+.btn-verde {
   color: #fff;
-  background-color: #993399;
-  border-color: #993399;
+  background-color: #4e9c81;
+  border-color: #4e9c81;
 }
-.btn-roxo:focus,
-.btn-roxo.focus {
+.btn-verde:focus,
+.btn-verde.focus {
   color: #fff;
-  background-color: #993399;
-  border-color: #993399;
+  background-color: #4e9c81;
+  border-color: #4e9c81;
 }
-.btn-roxo:hover {
+.btn-verde:hover {
   color: #fff;
-  background-color: #993399;
-  border-color: #993399;
+  background-color: #4e9c81;
+  border-color: #4e9c81;
 }
-.btn-roxo:active,
-.btn-roxo.active,
-.open > .dropdown-toggle.btn-roxo {
+.btn-verde:active,
+.btn-verde.active,
+.open > .dropdown-toggle.btn-verde {
   color: #fff;
-  background-color: #993399;
-  border-color: #993399;
+  background-color: #4e9c81;
+  border-color: #4e9c81;
 }
-.btn-roxo:active:hover,
-.btn-roxo.active:hover,
-.open > .dropdown-toggle.btn-roxo:hover,
-.btn-roxo:active:focus,
-.btn-roxo.active:focus,
-.open > .dropdown-toggle.btn-roxo:focus,
-.btn-roxo:active.focus,
-.btn-roxo.active.focus,
-.open > .dropdown-toggle.btn-roxo.focus {
+.btn-verde:active:hover,
+.btn-verde.active:hover,
+.open > .dropdown-toggle.btn-verde:hover,
+.btn-verde:active:focus,
+.btn-verde.active:focus,
+.open > .dropdown-toggle.btn-verde:focus,
+.btn-verde:active.focus,
+.btn-verde.active.focus,
+.open > .dropdown-toggle.btn-verde.focus {
   color: #fff;
-  background-color: #993399;
-  border-color: #993399;
+  background-color: #4e9c81;
+  border-color: #4e9c81;
 }
-.btn-roxo:active,
-.btn-roxo.active,
-.open > .dropdown-toggle.btn-roxo {
+.btn-verde:active,
+.btn-verde.active,
+.open > .dropdown-toggle.btn-verde {
   background-image: none;
 }
-.btn-roxo.disabled:hover,
-.btn-roxo[disabled]:hover,
-fieldset[disabled] .btn-roxo:hover,
-.btn-roxo.disabled:focus,
-.btn-roxo[disabled]:focus,
-fieldset[disabled] .btn-roxo:focus,
-.btn-roxo.disabled.focus,
-.btn-roxo[disabled].focus,
-fieldset[disabled] .btn-roxo.focus {
-  background-color: #993399;
-  border-color: #993399;
+.btn-verde.disabled:hover,
+.btn-verde[disabled]:hover,
+fieldset[disabled] .btn-verde:hover,
+.btn-verde.disabled:focus,
+.btn-verde[disabled]:focus,
+fieldset[disabled] .btn-verde:focus,
+.btn-verde.disabled.focus,
+.btn-verde[disabled].focus,
+fieldset[disabled] .btn-verde.focus {
+  background-color: #4e9c81;
+  border-color: #4e9c81;
 }
-.btn-roxo .badge {
-  color: #993399;
+.btn-verde .badge {
+  color: #4e9c81;
   background-color: #fff;
 }
 
 .btn-relatorio {
   color: #fff;
-  background-color: #6d0fe8;
-  border-color: #9703e8;
+  background-color: #4e9c81;
+  border-color: #4e9c81;
 }
 .btn-relatorio:focus,
 .btn-relatorio.focus {
   color: #fff;
-  background-color: #722eff;
-  border-color: #9703e8;
+  background-color: #4e9c81;
+  border-color: #4e9c81;
 }
 .btn-relatorio:hover {
   color: #fff;
-  background-color: #722eff;
-  border-color: #9703e8;
+  background-color: #4e9c81;
+  border-color: #4e9c81;
 }
 .btn-relatorio:active,
 .btn-relatorio.active,
 .open > .dropdown-toggle.btn-relatorio {
   color: #fff;
-  background-color: #722eff;
-  border-color: #9703e8;
+  background-color: #4e9c81;
+  border-color: #4e9c81;
 }
 .btn-relatorio:active:hover,
 .btn-relatorio.active:hover,
@@ -89,8 +89,8 @@ fieldset[disabled] .btn-roxo.focus {
 .btn-relatorio.active.focus,
 .open > .dropdown-toggle.btn-relatorio.focus {
   color: #fff;
-  background-color: #9703e8;
-  border-color: #9703e8;
+  background-color: #4e9c81;
+  border-color: #4e9c81;
 }
 .btn-relatorio:active,
 .btn-relatorio.active,
@@ -106,11 +106,11 @@ fieldset[disabled] .btn-relatorio:focus,
 .btn-relatorio.disabled.focus,
 .btn-relatorio[disabled].focus,
 fieldset[disabled] .btn-relatorio.focus {
-  background-color: #6d0fe8;
-  border-color: #9703e8;
+  background-color: #4e9c81;
+  border-color: #4e9c81;
 }
 .btn-relatorio .badge {
-  color: #6d0fe8;
+  color: #4e9c81;
   background-color: #fff;
 }
 

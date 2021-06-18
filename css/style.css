@@ -1,7 +1,20 @@
-/* configuração paginas */
+/* padrão paginas */
+* {
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    sans-serif;
+}
 
-.navbar {
-  margin-bottom: 0;
+i {
+  padding: 5px;
+}
+
+a {
+  color: #fff;
+}
+
+button i {
+  margin-right: 8px;
+  font-size: 14px;
 }
 
 #rodape {
@@ -10,6 +23,24 @@
   height: 40px;
   position: fixed;
   width: 100%;
+}
+
+/*pagina index*/
+
+.logo {
+  width: 60px;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.verde {
+  color: #4e9c81;
+}
+
+.branco {
+  color: #fff;
 }
 
 /* pagina sobre nós */
@@ -23,23 +54,21 @@
 
 /* página serviços*/
 
-/*SOBRE NOS*/
-
 .boxmodel1 {
   height: 200px;
-  background: #bdbdbd;
+  background: #dfeae2;
   color: #000;
 }
 
 .boxmodel2 {
   height: 200px;
-  background: #e1bee7;
+  background: #b4d6c1;
   color: #000;
 }
 
 .boxmodel3 {
   height: 200px;
-  background: #757575;
+  background: #8dc3a7;
   color: #000;
 }
 
@@ -49,25 +78,11 @@
   transform: scale(1.1);
 }
 
-.missao-visao-valores {
-  margin: 0;
+.icones-sobre {
+  padding: 10px;
 }
 
-.carousel-item {
-  height: 100vh; /* dimensiona o slider à altura do viewport */
-  background-size: cover;
-  background-position: 50% 0;
-}
-
-button {
-  height: 50px;
-  width: 200px;
-}
-
-button i {
-  margin-right: 8px;
-  font-size: 14px;
-}
+/*página contato*/
 
 form {
   margin: 50px;
@@ -77,8 +92,15 @@ form {
 
 .button-enviar {
   color: #fff;
-  background-color: #993399;
+  background-color: #4e9c81;
   margin-left: 12px;
-  height: 50px;
-  width: 200px;
+  font-size: 1em;
+  width: 180px;
+  height: 40px;
+}
+
+.localizacao {
+  margin: 40px;
+  display: flex;
+  flex-direction: column;
 }

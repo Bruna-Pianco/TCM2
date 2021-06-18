@@ -15,8 +15,11 @@
     <!-- Imagens Rodapé-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <!--Button personalizado-->
-    <link href="css/personalizado.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/personalizado.css">
     <link rel="stylesheet" href="css/style.css">
+
+    <link rel="sortcut icon" href="img/logotipo.png" type="image/gif" />
+
 
     <!--Referência para colocar ICON no rodapé-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -32,7 +35,8 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-5 col-sm-offset-1">
-                <img src="img/index.png" class="img-responsive" style="width:100%;">
+                <img src="img/img-index.png" class="img-responsive" alt="Ilustração pessoas com console"
+                    style="width:100%;">
             </div>
 
             <div class="col-sm-5"><br><br><b>
@@ -46,7 +50,7 @@
                 <p>Além da nossa loja online, também temos uma loja física para atendê-los prontamente caso tenha
                     dúvidas e queira conhecer nossos produtos pessoalmente</p><br /><br />
                 <button type="button" class="btn btn-outline-dark
-                    btn-roxo"> <i class="fas fa-envelope"></i></i>Entre em contato</button>
+                button-enviar"> <i class="fas fa-envelope"></i><a href="contato.php">Entre em contato</button>
             </div>
 
         </div>

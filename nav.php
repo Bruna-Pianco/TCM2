@@ -9,17 +9,20 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.php"><b>Cello Games</b></a>
+            <img class="logo" src="img/logotipo.png" alt="" srcset="">
+            <b><span class="branco"> CELLO</span> <span class="verde">GAMES</span></b>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <div class=" collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="index.php"><span class="glyphicon glyphicon-home"> Home</span><span
+                <li><a href="index.php"><i class="fas fa-home"></i><span class="letras"> Home</span><span
                             class="sr-only">(current)</span></a></li>
-                <li><a href="follow_sobre.php"><span class="glyphicon glyphicon-info-sign"> Sobre</span></a></li>
-                <li><a href="follow_servicos.php"><span class="glyphicon glyphicon-flash">Serviços</span></a></li>
-                <li><a href="follow_portfolio.php"><span class="glyphicon glyphicon-file">Portfólio</span></a></li>
-                <li><a href="contato.php"><span class="glyphicon glyphicon-earphone"> Contato</span></a></li>
+                <li><a href="sobre.php"><i class="fas fa-info-circle"></i><span> Sobre</span></a>
+                </li>
+                <li><a href="servicos.php"><i class="fas fa-bolt"></i><span>Serviços</span></a></li>
+                <li><a href="portfolio.php"><i class="far fa-file"></i><span>Portfólio</span></a>
+                </li>
+                <li><a href="contato.php"><i class="fas fa-phone-alt"></i><span> Contato</span></a></li>
             </ul>
         </div>
     </div>
