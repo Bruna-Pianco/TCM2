@@ -34,7 +34,6 @@
                  <h4>Localização Loja São Paulo</h4>
 
                  <p>R. Guaipá, 678 - Vila Leopoldina</br>
-                     São Paulo - SP</br>
                      CEP: 05089-000</br>
                      Horário de funcionamento:
                      Segunda a Sábado: das 9h às 16h </br>
