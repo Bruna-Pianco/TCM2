@@ -78,7 +78,7 @@
              <div class="form-group col-sm-8">
                  <label for="inputTel">Telefone</label>
                  <input type="text" name="telefone" class="form-control" required id="inputTel"
-                     placeholder="Digite seu endereço">
+                     placeholder="Digite seu telefone">
              </div>
          </div>
 
