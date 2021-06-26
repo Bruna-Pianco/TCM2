@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Cello Games | Portfólio</title>
+    <title>Cello Games | E-mail Enviado</title>
     <!--Responsividade-->
     <meta name="viewport" content="widht=device-widht,initial-scale=1">
     <!-- CSS -->
@@ -20,17 +20,31 @@
     <link rel="sortcut icon" href="img/logotipo.png" type="image/gif" />
 </head>
 
-<body><?php include 'nav.php';
-?><br><br><br>
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-sm-6 col-sm-offset-3"><img src="img/flyer.png" class="img-responsive" style="width:100%;">
+<body>
+    <?php
+    
+        include 'conexao.php';
+    	include 'nav.php';
+  	?>
+
+    <section>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-9 col-lg-12 text-center py-3 w-auto p-3">
+                    <img src=" img/msg-enviado.gif" alt="e-mail enviado!">
+                    <h4>Mensagem enviada com sucesso!</h4>
+                    <br> <button type="button" class="btn btn-outline-dark
+                button-enviar"> <i class="fas fa-envelope"></i><a href="index.php">Voltar para Home</button>
+                </div>
             </div>
         </div>
-        <br><br><br>
-    </div><br><?php include 'rodape.html';
-?>
-    <script src="https://kit.fontawesome.com/43d8bab044.js" crossorigin="anonymous"></script>
-</body>
+    </section>
 
-</html>
+
+    <?php
+    
+    include 'rodape.html';
+
+  ?>
+    <script src=" https://kit.fontawesome.com/43d8bab044.js" crossorigin="anonymous"></script>
+</body>

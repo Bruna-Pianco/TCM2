@@ -19,6 +19,10 @@
      $(document).ready(function() {
          $("#cpf").mask("000 000 000-00");
      });
+
+     $(document).ready(function() {
+         $("#inputTel").mask("(00) 00000-0000");
+     });
      </script>
  </head>
 
@@ -49,7 +53,9 @@
                      tabindex="0"></iframe></td>
          </tr>
      </section>
-     <form>
+
+     <form method="post" action="insertContato.php">
+
          <div class=" form-row">
              <div class="form-group col-sm-8">
                  <label for="inputEmail4">Nome Completo</label>
@@ -96,9 +102,16 @@
                  <input type="text" name="cpf" class="form-control" required id="cpf" placeholder="Digite seu CPF">
              </div>
          </div>
+         <div class=" form-row">
+             <div class="form-group col-sm-8">
+                 <label for="inputProposta">Proposta/Comentário</label><br/><br/>
+                 <textarea cols="60" rows="10" name="proposta" placeholder="Deixe sua proposta para que nossa equipe de suporte entre em contato o mais breve possível ! ..."></textarea>
+             </div>
+         </div>
          <div>
              <button type="submit" class="btn btn-dark
-                button-enviar">Enviar Informações</button>
+                button-enviar">Enviar Informações
+            </button><br/><br/>
          </div>
      </form>
 
