@@ -1,9 +1,9 @@
 <?php
 
     $servidor = "Localhost";
-	$usuario = "root";
-	$senha = "123456";
-	$banco = "CelloGames";
+	$usuario = "seu usuario";
+	$senha = "sua senha";
+	$banco = "seu banco de dados";
 	
 	$cn = new PDO("mysql:host=$servidor;dbname=$banco", $usuario, $senha);
 
