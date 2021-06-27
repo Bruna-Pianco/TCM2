@@ -14,7 +14,7 @@
 	$exibe = $consulta->fetch(PDO::FETCH_ASSOC); // transformando em array para leitura (CASO PRECISE).
 
 	if($consulta ->rowCount() == 1){
-		header('location:erro1.php');
+		header('location:erro.php');
 	}
 	else{
 		$incluir = $cn->query("insert into formulario values (Default, '$nome', '$email', '$endereco', '$cidade',
@@ -23,4 +23,3 @@
 	}
 
 ?>
-	

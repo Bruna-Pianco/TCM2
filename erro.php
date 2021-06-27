@@ -27,20 +27,20 @@
     	include 'nav.php';
   	?>
 
-    <section>
+    <section class="email">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-sm-9 col-lg-12 text-center py-3 w-auto p-3">
                     <br><br><br>
-                    <img src=" img/msg-enviado.gif" alt="e-mail enviado!">
-                    <h4>Seu e-mail foi enviado com sucesso!</h4>
+                    <img src=" img/email-cadastrado.jpg" alt="e-mail Cadastrado" style="width: 250px;">
+                    <h4>Já localizamos este e-mail em nosso banco de dados.<br>
+                        Por favor aguarde nosso contato!</h4>
                     <br> <button type="button" class="btn btn-outline-dark
                 button-enviar"> <i class="fas fa-undo-alt"></i><a href="index.php">Voltar para Home</button>
                 </div>
             </div>
         </div>
     </section>
-
 
     <?php
     
