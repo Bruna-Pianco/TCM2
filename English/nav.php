@@ -15,16 +15,15 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class=" collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="index.php"><i class="fas fa-home"></i><span class="letras"> Home</span><span
+                <li><a href="index-english.php"><i class="fas fa-home"></i><span class="letras"> Home</span><span
                             class="sr-only">(current)</span></a></li>
-                <li><a href="sobre.php"><i class="fas fa-info-circle"></i><span> Sobre</span></a>
+                <li><a href="about.php"><i class="fas fa-info-circle"></i><span> About</span></a>
                 </li>
-                <li><a href="servicos.php"><i class="fas fa-bolt"></i><span>Serviços</span></a></li>
-                <li><a href="portfolio.php"><i class="far fa-file"></i><span>Portfólio</span></a>
+                <li><a href="services.php"><i class="fas fa-bolt"></i><span>Services</span></a></li>
+                <li><a href="portfolio.php"><i class="far fa-file"></i><span>Portfolio</span></a>
                 </li>
-                <li><a href="contato.php"><i class="fas fa-phone-alt"></i><span> Contato</span></a></li>
-                <li><a href="English/index-english.php"> <img src="img/eua.png" alt="bandeira dos EUA"> </a>
-                </li>
+                <li><a href="contact.php"><i class="fas fa-phone-alt"></i><span> Contact</span></a></li>
+                <li><a href="../index.php"> <img src="img/brasil.png" alt="bandeira do Brasil"> </a>
             </ul>
         </div>
     </div>

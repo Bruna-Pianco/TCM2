@@ -1,4 +1,5 @@
  <head>
+     <title>Cello Games | Contato </title>
      <!--Responsividade-->
      <meta name="viewport" content="widht=device-widht,initial-scale=1">
      <!-- CSS -->
@@ -30,28 +31,22 @@
      <?php
     	include 'nav.php';
   	?>
-     <section class="col-sm-5 localizacao">
-         <tr>
-             <header>
-         <tr>
-             <td>
-                 <h4>Localização Loja São Paulo</h4>
-
-                 <p>R. Guaipá, 678 - Vila Leopoldina</br>
-                     CEP: 05089-000</br>
-                     Horário de funcionamento:
-                     Segunda a Sábado: das 9h às 16h </br>
-                     Domingo: Fechado
-                 </p>
-             </td>
-         </tr>
-         </header>
-         <tr>
-             <td> <iframe
-                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.3222944873924!2d-46.73081678538497!3d-23.520907765983935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef8c1d371ec31%3A0x671c9325c275132e!2sETEC%20Professor%20Basilides%20de%20Godoy.!5e0!3m2!1spt-BR!2sbr!4v1605654207441!5m2!1spt-BR!2sbr"
-                     width="400" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false"
-                     tabindex="0"></iframe></td>
-         </tr>
+     <section class="col-sm-6 localizacao">
+         <img src="img/contato.png" alt="Ilustração Contato"><br>
+         <div>
+             <h4><b>Localização Loja São Paulo</b>
+             </h4>
+             <p>R. Guaipá, 678 - Vila Leopoldina</br>
+                 CEP: 05089-000</br>
+                 Horário de funcionamento:
+                 Segunda a Sábado: das 9h às 16h </br>
+                 Domingo: Fechado
+             </p><br>
+         </div>
+         <iframe
+             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.3222944873924!2d-46.73081678538497!3d-23.520907765983935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef8c1d371ec31%3A0x671c9325c275132e!2sETEC%20Professor%20Basilides%20de%20Godoy.!5e0!3m2!1spt-BR!2sbr!4v1605654207441!5m2!1spt-BR!2sbr"
+             width="600" height="150" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false"
+             tabindex="0"></iframe>
      </section>
 
      <form method="post" action="insertContato.php">
@@ -104,14 +99,15 @@
          </div>
          <div class=" form-row">
              <div class="form-group col-sm-8">
-                 <label for="inputProposta">Proposta/Comentário</label><br/><br/>
-                 <textarea cols="60" rows="10" name="proposta" placeholder="Deixe sua proposta para que nossa equipe de suporte entre em contato o mais breve possível ! ..."></textarea>
+                 <label for="inputProposta">Proposta/Comentário</label><br /><br />
+                 <textarea cols="60" rows="10" name="proposta"
+                     placeholder="Deixe sua proposta para que nossa equipe de suporte entre em contato o mais breve possível ! ..."></textarea>
              </div>
          </div>
          <div>
              <button type="submit" class="btn btn-dark
                 button-enviar">Enviar Informações
-            </button><br/><br/>
+             </button><br /><br />
          </div>
      </form>
 

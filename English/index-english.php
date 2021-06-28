@@ -15,8 +15,8 @@
     <!-- Imagens Rodapé-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <!--Button personalizado-->
-    <link rel="stylesheet" href="css/personalizado.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../css/personalizado.css">
+    <link rel="stylesheet" href="../css/style.css">
 
     <link rel="sortcut icon" href="img/logotipo.png" type="image/gif" />
 
@@ -29,28 +29,28 @@
     <?php
     include 'nav.php';
 	include 'cabecalho.html';
-    ?>
+  ?>
 
     <br><br><br>
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-5 col-sm-offset-1">
-                <img src="img/img-index.png" class="img-responsive" alt="Ilustração pessoas com console"
+                <img src="../img/img-index.png" class="img-responsive" alt="Ilustração pessoas com console"
                     style="width:100%;">
             </div>
 
             <div class="col-sm-5"><br><br><b>
                     <h3>
-                        SEJA BEM-VINDO(A) A SUA LOJA DE GAMES
+                        WELCOME TO YOUR GAME SOTRE
                     </h3>
                 </b><br />
-                <p>A Cello Games é uma loja especializada em venda de Consoles, jogos de videogame e equipamentos para
-                    que você tenha a melhor experiência em sua gameplay e muita diversão com seus familiares, amigos e
-                    parceiros.</p>
-                <p>Além da nossa loja online, também temos uma loja física para atendê-los prontamente caso tenha
-                    dúvidas e queira conhecer nossos produtos pessoalmente</p><br /><br />
+                <p>Cello Games is a store specialized in selling consoles, video games and equipment so you have the
+                    best experience in your gameplay and lots of fun with your family, friends and
+                    partners</p>
+                <p>In addition to our online store, we also have a physical store to serve you promptly if you have
+                    questions and want to know our products personally</p><br /><br />
                 <button type="button" class="btn btn-outline-dark
-                button-enviar"> <i class="fas fa-envelope"></i><a href="contato.php">Entre em contato</button>
+                button-enviar"> <i class="fas fa-envelope"></i><a href="contact.php">Contact us</button>
             </div>
 
         </div>

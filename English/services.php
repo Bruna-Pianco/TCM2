@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Cello Games | Serviços </title>
+    <title>Cello Games | Services </title>
     <!--Responsividade-->
     <meta name="viewport" content="widht=device-widht,initial-scale=1">
     <!-- CSS -->
@@ -15,9 +15,14 @@
     <!-- Imagens Rodapé-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <!--Button personalizado-->
-    <link href="css/personalizado.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../css/personalizado.css">
+    <link rel="stylesheet" href="../css/style.css">
+
     <link rel="sortcut icon" href="img/logotipo.png" type="image/gif" />
+
+
+    <!--Referência para colocar ICON no rodapé-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <body>
@@ -31,21 +36,23 @@
                 <div class="col-md-6 col-lg-4 col text-center py-3 w-auto p-3 ">
                     <img src="img/test-drive.png" />
                     <h4 class="title">Test Drive</h4>
-                    <p class="texto">Aqui na Cello Games você tem a possibilidade de fazer o test drive dos jogos que
-                        mais tem interesse</p>
+                    <p class="texto">Here at Cello Games you have the possibility to test drive the games that
+                        more has interest
+                    </p>
                 </div>
 
                 <div class="col-md-6 col-lg-4 col text-center py-3 w-auto p-3 ">
                     <img src=" img/delive.png" />
                     <h4 class="title">Delivery</h4>
-                    <p class="texto">Para a sua comodidade fazemos as entregas dos jogos e também podemos agendar
-                        retirada e entrega das manutenções</p>
+                    <p class="texto">For your convenience we make the deliveries of the games we can also schedule
+                        withdrawal and delivery of maintenance
+                    </p>
                 </div>
 
                 <div class="col-md-6 col-lg-4 col text-center py-3 w-auto p-3 ">
                     <img src="img/manu.png" />
-                    <h4 class="title">Manutenção</h4>
-                    <p class="texto">Fazemos a manutenção necessaria para que o seu console tenha a melhor performace
+                    <h4 class="title">Maintenance</h4>
+                    <p class="texto">We do the necessary maintenance so that your console has the best performance
                     </p>
                 </div>
             </div>
